@@ -13,13 +13,14 @@ The Gesture-Based Calculator is an innovative application that combines computer
 
 ## Demo
 <img width="1904" height="908" alt="Screenshot 2025-07-19 125230" src="https://github.com/user-attachments/assets/4368a227-65fa-4daf-868a-c66001681c75" />
-*Caption: User interface and Drawing mathematical expressions with hand gestures*
+User interface and Drawing mathematical expressions with hand gestures*
+
 > ✍️ Draw. 👁️ Watch. 🤖 Analyze. - An AI-powered gesture-controlled calculator that solves mathematical problems through natural hand movements.
 
 <img width="1908" height="785" alt="Screenshot 2025-07-19 125211" src="https://github.com/user-attachments/assets/dfa0a942-aa73-46db-b4ce-1d1fa7dc5ba5" />
-*Caption: AI analysis and step-by-step solution display*
+AI analysis and step-by-step solution display*
 
-## 🎮 Gesture Controls
+## Gesture Controls
 
 | Gesture | Function | Description |
 |---------|----------|-------------|
@@ -29,7 +30,7 @@ The Gesture-Based Calculator is an innovative application that combines computer
 | 👍🤙 | **Reset Canvas** | Thumb + Pinky finger up |
 | ✌️🤟 | **Analyze with AI** | Index + Middle finger up |
 
-## 🛠️ Installation
+## Installation
 
 ### Prerequisites
 
@@ -75,7 +76,7 @@ To get your Google API key:
 2. Create a new API key
 3. Copy the key to your `.env` file
 
-## 🚀 Usage
+## Usage
 
 ### Running the Application
 
@@ -93,7 +94,7 @@ The application will open in your default web browser at `http://localhost:8501`
 4. **Get Solutions**: Use index + middle finger to analyze with AI
 5. **Erase/Reset**: Use appropriate gestures to modify or clear content
 
-## 🏗️ Technical Architecture
+## Technical Architecture
 
 ```
 ┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
