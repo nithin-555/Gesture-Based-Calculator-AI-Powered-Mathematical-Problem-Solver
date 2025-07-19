@@ -12,13 +12,11 @@ The Gesture-Based Calculator is an innovative application that combines computer
 - **Real-time Processing**: Instant visual feedback and solution generation
 
 ## Demo
-
-<!-- Add your demo images/GIFs here -->
-![Demo Image 1]("C:\Users\91929\Pictures\Screenshots\Screenshot 2025-07-19 125230.png")
+<img width="1904" height="908" alt="Screenshot 2025-07-19 125230" src="https://github.com/user-attachments/assets/4368a227-65fa-4daf-868a-c66001681c75" />
 *Caption: User interface and Drawing mathematical expressions with hand gestures*
 > ✍️ Draw. 👁️ Watch. 🤖 Analyze. - An AI-powered gesture-controlled calculator that solves mathematical problems through natural hand movements.
 
-![Demo Image 2]("C:\Users\91929\Pictures\Screenshots\Screenshot 2025-07-19 125211.png")
+<img width="1908" height="785" alt="Screenshot 2025-07-19 125211" src="https://github.com/user-attachments/assets/dfa0a942-aa73-46db-b4ce-1d1fa7dc5ba5" />
 *Caption: AI analysis and step-by-step solution display*
 
 ## 🎮 Gesture Controls
